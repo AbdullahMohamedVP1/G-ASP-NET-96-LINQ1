@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="DataSources\.vs\DataSources.slnx\v18\DocumentLayout.json" />
+    <Content Include="DataSources\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DataSources\.vs\DataSources.slnx\FileContentIndex\ea089d1c-ea68-46db-b1ed-a86bdc120ba6.vsidx" />
+    <None Include="DataSources\.vs\slnx.sqlite" />
+  </ItemGroup>
+
 </Project>
